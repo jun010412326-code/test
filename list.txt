@@ -1,0 +1,16 @@
+total 101
+drwxr-xr-x 1 user 197121     0 Apr  9 22:29 ./
+drwxr-xr-x 1 user 197121     0 Apr  9 22:27 ../
+drwxr-xr-x 1 user 197121     0 Apr  9 22:29 .git/
+-rw-r--r-- 1 user 197121  7788 Apr  9 22:27 .gitignore
+-rw-r--r-- 1 user 197121 35823 Apr  9 22:27 LICENSE
+-rw-r--r-- 1 user 197121   102 Apr  9 22:27 README.md
+-rw-r--r-- 1 user 197121 13974 Apr  9 22:27 cat.jpg
+-rw-r--r-- 1 user 197121     0 Apr  9 22:29 list.txt
+-rw-r--r-- 1 user 197121  9467 Apr  9 22:27 soccer.jpg
+-rw-r--r-- 1 user 197121     0 Apr  9 22:27 test.0409
+-rw-r--r-- 1 user 197121     0 Apr  9 22:27 test0409
+-rw-r--r-- 1 user 197121     0 Apr  9 22:27 test1
+-rw-r--r-- 1 user 197121     0 Apr  9 22:27 test2
+-rw-r--r-- 1 user 197121     0 Apr  9 22:27 test3
+-rw-r--r-- 1 user 197121 17357 Apr  9 22:27 다운로드.jpg
